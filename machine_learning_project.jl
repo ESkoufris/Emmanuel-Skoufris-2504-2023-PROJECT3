@@ -1,2 +1,2 @@
 
-using DataFrames, HTTP, CSV, Plots, StatsPlots, StatsBase, PlotlyJS, GLM
+using DataFrames, HTTP, CSV, Plots, StatsPlots, StatsBase, GLM
